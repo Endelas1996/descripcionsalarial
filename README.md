@@ -1,0 +1,2 @@
+# descripcionsalarial
+salario
